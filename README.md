@@ -1,7 +1,7 @@
 # Capstone Project — Pima Indians Diabetes Risk Prediction
 
 Final capstone for the AnalystLab Africa Machine Learning Internship.
-Builds on the Week 7 deployment ([https://github.com/Ibinabo-Direh/Week-7-Diabetes-Prediction-API-Deployment]) with deeper EDA, 
+Builds on the Week 7 deployment ( [https://github.com/Ibinabo-Direh/Week-7-Diabetes-Prediction-API-Deployment] ) with deeper EDA, 
 full problem framing, and a complete project report.
 
 ## Contents
@@ -18,7 +18,7 @@ setup as Week 7 (create venv, `pip install fastapi uvicorn joblib scikit-learn`,
 `uvicorn diabetes_api:app --reload`).
 
 ## Demo Video
-(API Demo)[https://drive.google.com/file/d/1mxg6iluBmOFp6f7qo8UkOUhRYzEt7Co1/view?usp=drivesdk]
+(API Demo).[https://drive.google.com/file/d/1mxg6iluBmOFp6f7qo8UkOUhRYzEt7Co1/view?usp=drivesdk]
 
 
 
